@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T09:52:01Z" name="Default suite" finished-at="2024-07-11T09:52:13Z" duration-ms="11376">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T09:52:01Z" name="Default test" finished-at="2024-07-11T09:52:13Z" duration-ms="11376">
+      <class name="com.qa.opencart.tests.InventoryPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.opencart.tests.InventoryPageTest@c86b9e3]" started-at="2024-07-11T09:52:01Z" name="setup" finished-at="2024-07-11T09:52:11Z" duration-ms="9345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="inventoryPageSetup()[pri:0, instance:com.qa.opencart.tests.InventoryPageTest@c86b9e3]" started-at="2024-07-11T09:52:11Z" name="inventoryPageSetup" finished-at="2024-07-11T09:52:12Z" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventoryPageSetup -->
+        <test-method signature="inventoryPageHeaderTest()[pri:0, instance:com.qa.opencart.tests.InventoryPageTest@c86b9e3]" started-at="2024-07-11T09:52:12Z" name="inventoryPageHeaderTest" finished-at="2024-07-11T09:52:13Z" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventoryPageHeaderTest -->
+        <test-method signature="inventoryPageTitleTest()[pri:0, instance:com.qa.opencart.tests.InventoryPageTest@c86b9e3]" started-at="2024-07-11T09:52:13Z" name="inventoryPageTitleTest" finished-at="2024-07-11T09:52:13Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventoryPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.tests.InventoryPageTest@c86b9e3]" started-at="2024-07-11T09:52:13Z" name="tearDown" finished-at="2024-07-11T09:52:13Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.tests.InventoryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
